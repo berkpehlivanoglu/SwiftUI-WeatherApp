@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03418EED2D3F664A00E97BBA /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03418EEC2D3F664A00E97BBA /* WeatherButton.swift */; };
 		03B7185B2D32BD73007FCAB3 /* SwiftUI_WeatherAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03B7185A2D32BD73007FCAB3 /* SwiftUI_WeatherAppApp.swift */; };
 		03B7185D2D32BD73007FCAB3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03B7185C2D32BD73007FCAB3 /* ContentView.swift */; };
 		03B7185F2D32BD79007FCAB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03B7185E2D32BD79007FCAB3 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03418EEC2D3F664A00E97BBA /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 		03B718572D32BD73007FCAB3 /* SwiftUI-WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-WeatherApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		03B7185A2D32BD73007FCAB3 /* SwiftUI_WeatherAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherAppApp.swift; sourceTree = "<group>"; };
 		03B7185C2D32BD73007FCAB3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				03B7185A2D32BD73007FCAB3 /* SwiftUI_WeatherAppApp.swift */,
 				03B7185C2D32BD73007FCAB3 /* ContentView.swift */,
+				03418EEC2D3F664A00E97BBA /* WeatherButton.swift */,
 				03B7185E2D32BD79007FCAB3 /* Assets.xcassets */,
 				03B718602D32BD79007FCAB3 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				03B7185D2D32BD73007FCAB3 /* ContentView.swift in Sources */,
 				03B7185B2D32BD73007FCAB3 /* SwiftUI_WeatherAppApp.swift in Sources */,
+				03418EED2D3F664A00E97BBA /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
